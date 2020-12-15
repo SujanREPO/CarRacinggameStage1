@@ -18,6 +18,7 @@ class Form {
   setElementStyle(){
     this.button.class("customButton");
     this.reset.class("customButton");
+    this.input.class("customInput");
 
   }
 
